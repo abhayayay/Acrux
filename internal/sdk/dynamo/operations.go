@@ -1,0 +1,4 @@
+package dynamo
+
+//
+//func singleInsert()
